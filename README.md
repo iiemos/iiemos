@@ -1,6 +1,6 @@
 ### Hi friend ✨
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iiemos.iiemos&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iiemos.iiemos&left_color=green&right_color=#118bee)
 <!--
 **iiemos/iiemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
