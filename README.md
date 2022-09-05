@@ -3,7 +3,7 @@
  
 > 🍊 I'm currently learning the Move Programming Language
 
-> 😄  [My Blog](https://www.iiemo.com){:target="_blank"}
+> 😄  [My Blog](https://www.iiemo.com)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=iiemos&show_icons=true&theme=dark)](https://github.com/iiemos)
 
