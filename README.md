@@ -10,6 +10,9 @@
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-stats.vercel.app/api?username=iiemos)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iiemos.iiemos&left_color=green&right_color=#118bee)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiemos&count_private=true)
+
 
