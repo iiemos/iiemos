@@ -11,11 +11,9 @@
 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=iiemos&show_icons=true)](https://github.com/iiemos)
+[![github stats](https://github-readme-stats.vercel.app/api?username=iiemos&show_icons=true&theme=dark)](https://github.com/iiemos)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iiemos&layout=compact)](https://github.com/iiemos)
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiemos&layout=compact)](https://github.com/iiemos)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiemos&layout=compact&theme=dark)](https://github.com/iiemos)
 
 
 ![https://github.com/iiemos](https://visitor-badge.glitch.me/badge?page_id=iiemos.iiemos&left_color=green&right_color=#118bee)
