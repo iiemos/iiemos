@@ -13,6 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiemos&count_private=true&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiemos)](https://github.com/anuraghazra/github-readme-stats)
+
 ![https://github.com/iiemos](https://visitor-badge.glitch.me/badge?page_id=iiemos.iiemos&left_color=green&right_color=#118bee)
 
 
